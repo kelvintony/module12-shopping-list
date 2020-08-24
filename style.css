@@ -1,0 +1,8 @@
+.coolText{
+	color: green;
+	background: black;
+}
+
+.done{
+	text-orientation: line-through;
+}
