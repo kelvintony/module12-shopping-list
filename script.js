@@ -1,3 +1,4 @@
+// doing a serious test
 var button= document.getElementById("enter");
 var input= document.getElementById("userInput");
 var ul= document.querySelector("ul");
